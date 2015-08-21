@@ -1,5 +1,5 @@
-# lectures
+п»ї# lectures
 
-[Список заданий для проектной работы](https://docs.google.com/document/d/1R8-PY-nklomHmxXBJx_6Uitn0fjtcj1n_oxPIK7Gs3M/edit?usp=sharing)
+[РЎРїРёСЃРѕРє Р·Р°РґР°РЅРёР№ РґР»СЏ РїСЂРѕРµРєС‚РЅРѕР№ СЂР°Р±РѕС‚С‹](https://docs.google.com/document/d/1R8-PY-nklomHmxXBJx_6Uitn0fjtcj1n_oxPIK7Gs3M/edit?usp=sharing)
 
-[Таблица для выбора темы проекта](https://docs.google.com/spreadsheets/d/10PY5Z8CrcrxCX1laIvGZdPg2LVg-nn1dwJ1F1QOM3to/edit?usp=sharing)
+[РўР°Р±Р»РёС†Р° РґР»СЏ РІС‹Р±РѕСЂР° С‚РµРјС‹ РїСЂРѕРµРєС‚Р°](https://docs.google.com/spreadsheets/d/10PY5Z8CrcrxCX1laIvGZdPg2LVg-nn1dwJ1F1QOM3to/edit?usp=sharing)
